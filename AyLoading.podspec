@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version                 = "2.0.4"
   s.summary                 = "loading..."
   s.homepage                = "https://github.com/ShotSkydiver/AyLoading"
-  s.license                 = { :type => "MIT", :file => "FILE_LICENSE" }
+  s.license                 = { :type => "MIT", :file => "LICENSE" }
   s.author                  = { "Chakery" => "chakerychen@gmail.com" }
   s.ios.deployment_target   = "8.0"
   s.osx.deployment_target   = "10.10"
