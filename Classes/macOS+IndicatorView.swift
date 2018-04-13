@@ -26,7 +26,7 @@ public class IndicatorView: NSView {
         }
     }
     
-    public var padding: EdgeInsets = NSEdgeInsets(top: 0, left: 0, bottom: 0, right: 0) {
+    public var padding: NSEdgeInsets = NSEdgeInsets(top: 0, left: 0, bottom: 0, right: 0) {
         didSet {
             updateCustomConstraints()
         }
